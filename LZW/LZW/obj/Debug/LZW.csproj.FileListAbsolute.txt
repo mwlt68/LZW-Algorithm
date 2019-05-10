@@ -1,0 +1,7 @@
+C:\Users\VodviL\source\repos\LZW\LZW\bin\Debug\LZW.exe.config
+C:\Users\VodviL\source\repos\LZW\LZW\bin\Debug\LZW.exe
+C:\Users\VodviL\source\repos\LZW\LZW\bin\Debug\LZW.pdb
+C:\Users\VodviL\source\repos\LZW\LZW\obj\Debug\LZW.csprojAssemblyReference.cache
+C:\Users\VodviL\source\repos\LZW\LZW\obj\Debug\LZW.csproj.CoreCompileInputs.cache
+C:\Users\VodviL\source\repos\LZW\LZW\obj\Debug\LZW.exe
+C:\Users\VodviL\source\repos\LZW\LZW\obj\Debug\LZW.pdb
